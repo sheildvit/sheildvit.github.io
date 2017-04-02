@@ -40,7 +40,7 @@
 
     /* Hero Section
    ------------------------------------------------------------------ */
-   #hero { padding-top: 60px; }
+   #hero { padding-top: 70px; }
    .hero-text { width: 88%; }
    .hero-text h1 { font: 35px/1.2em 'montserrat-regular', sans-serif; }
    .hero-text p { font: 15px/30px 'opensans-regular', sans-serif; } 
@@ -195,7 +195,7 @@
    /* Hero Section
    -------------------------------------------------------------------- */
    #hero { padding-top: 68px; 
-   padding-bottom: 20px;}
+   padding-bottom: 15px;}
    .hero-text { width: 92%; }
    .hero-text h1 { font: 31px/1.2em 'montserrat-regular', sans-serif; }
    .hero-text p { font: 14px/24px 'opensans-regular', sans-serif; } 

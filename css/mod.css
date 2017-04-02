@@ -6,3 +6,11 @@ body {
 .section-head {
     font-size: 1.6em;
 }
+
+#woof {
+    margin-bottom: -10px;
+}
+
+p {
+    font-size: 1.3em;
+}
