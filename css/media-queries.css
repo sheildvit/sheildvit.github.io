@@ -99,6 +99,14 @@
 	/* General and Common Styles */
 	.section-head { padding: 0 30px; }
 
+    div.row.section-head {
+        font-size: 1em;
+    }
+    
+    div.row li {
+        font-size: 16px;
+    }
+
    /* mobile navigation
    -------------------------------------------------------------------- */
    #nav-wrap {
