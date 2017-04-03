@@ -1,10 +1,10 @@
 @font-face {
-    font-family: Montserret;
+    font-family: Montserrat;
     src: url(css/fonts/montserret.ttf);
 }
 
 body {
-    font-family: 'Montserret';
+    font-family: 'Montserrat';
     font-size: 1.5em;
 }
 
