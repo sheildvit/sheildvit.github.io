@@ -106,6 +106,10 @@
     div.row li {
         font-size: 16px;
     }
+    
+    div.row p {
+        font-size: 16px;
+    }
 
    /* mobile navigation
    -------------------------------------------------------------------- */
